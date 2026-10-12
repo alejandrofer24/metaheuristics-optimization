@@ -72,7 +72,7 @@ metaheuristics-optimization/
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/metaheuristics-optimization.git
+git clone https://github.com/alejandrofer24/metaheuristics-optimization.git
 cd metaheuristics-optimization
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
